@@ -1,2 +1,2 @@
 # Tech-Writing-Assignment
-My first Assignment ffor Technical Writing Mentorship Program
+My first Assignment for Technical Writing Mentorship Program
